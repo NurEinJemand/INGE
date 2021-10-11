@@ -7,6 +7,7 @@ Speech Emotion Recognition (SER), also die Erkennung von menschlichen Emotionen 
 
 # Link zu öffentlichem Kaggle-Notebook
 https://www.kaggle.com/nureinjemand/emotiondetectionaudiodata-1-ansatz-u
+Mein Profil, falls es über den eigentlichen Link nicht funktioniert: https://www.kaggle.com/nureinjemand
 
 # Aufbau des Models
 
